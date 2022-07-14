@@ -62,6 +62,7 @@
         > npm install
     - express
         - 설치
+        - https://expressjs.com/en/starter/hello-world.html
         > npm i express
     - nodemon
         - node monitor
@@ -76,10 +77,13 @@
         > npx nodemon app.js
     - mongoose
         - node.js에서 mongo db 연결
+        - https://mongoosejs.com/docs/index.html
         > npm i mongoose
+- Mongo DB
+    - https://cloud.mongodb.com/
 - 프로그램
     - Mongo DB compass
-        - Mongo DB 개발 통합 환경
+        - Mongo DB 개발 통합 환경    
 
 ## 참조
 - Electron
